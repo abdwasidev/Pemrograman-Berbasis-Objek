@@ -1,2 +1,2 @@
 # Pemrograman-Berbasis-Objek
-Repository ini adalah Tugas Mata Kuliah Metode Numerik
+Repository __Pemrograman-Berbasis-Objek__ ini merupakan kumpulan dari semua Tugas Mata Kuliah Pemrograman Berbasis Objek.
